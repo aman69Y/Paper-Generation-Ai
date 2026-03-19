@@ -1,0 +1,5 @@
+{
+  "name": "FusionAi",
+  "description": "An AI-powered platform for teachers to generate high-quality question papers based on specific boards, subjects, and difficulty levels.",
+  "requestFramePermissions": ["microphone"]
+}
